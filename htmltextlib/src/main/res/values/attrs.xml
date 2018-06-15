@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HtmlTextView">
+        <attr name="isOption" format="boolean"/>
+        <attr name="errorOption" format="reference"/>
+        <attr name="rightOption" format="reference"/>
+        <attr name="noDoOption" format="reference"/>
+        <attr name="errorImage" format="reference"/>
+    </declare-styleable>
+</resources>
